@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=JPUniversityController
+comment1.params=event
+comment1.target=void\ actualizarInformacion(javafx.event.ActionEvent)
+comment2.params=event
+comment2.target=void\ asignarAyuda(javafx.event.ActionEvent)
+comment3.params=codigo
+comment3.target=Estudiante\ buscarEstudiante(java.lang.String)
+comment4.params=event
+comment4.target=void\ generarResumen(javafx.event.ActionEvent)
+comment5.params=event
+comment5.target=void\ limpiarInformacion(javafx.event.ActionEvent)
+comment6.params=event
+comment6.target=void\ registrarEstudiante(javafx.event.ActionEvent)
+comment7.params=
+comment7.target=void\ initialize()
+numComments=8

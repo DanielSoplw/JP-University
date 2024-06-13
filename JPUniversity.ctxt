@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=JPUniversity
+comment1.params=
+comment1.target=JPUniversity()
+comment2.params=estudiante
+comment2.target=void\ registrarEstudiante(Estudiante)
+comment3.params=
+comment3.target=java.util.List\ getEstudiantes()
+comment4.params=ayuda
+comment4.target=void\ asignarAyuda(Ayuda)
+comment5.params=
+comment5.target=java.util.List\ getAyudas()
+numComments=6

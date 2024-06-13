@@ -16,6 +16,7 @@ public class Estudiante
         this.email = email;
         this.fechaNacimiento = fechaNacimiento;
         this.estrato = estrato;
+        this.tipoDocumento = tipoDocumento;
     }
 //Start GetterSetterExtension Source Code
 
@@ -78,6 +79,22 @@ public class Estudiante
     public void setEstrato(int estrato){
         this.estrato = estrato;
     }//end method setEstrato
+
+//End GetterSetterExtension Source Code
+
+
+
+//Start GetterSetterExtension Source Code
+
+    /**GET Method Propertie tipoDocumento*/
+    public TipoDocumento getTipoDocumento(){
+        return this.tipoDocumento;
+    }//end method getTipoDocumento
+
+    /**SET Method Propertie tipoDocumento*/
+    public void setTipoDocumento(TipoDocumento tipoDocumento){
+        this.tipoDocumento = tipoDocumento;
+    }//end method setTipoDocumento
 
 //End GetterSetterExtension Source Code
 
